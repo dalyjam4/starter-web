@@ -8,6 +8,7 @@ This is example is to show different part of the Git repository and various comm
 
 ## Purpose
 
+This is example is to show different part of the Git repository and various commands using a web project.
 
 ## Deployment
 
