@@ -1,6 +1,6 @@
 # Starter Web Project							
 
-This repository is for showing how Git and GitHub work together
+This repository is for showing how Git and GitHub work together.
 
 ## Introduction
 
@@ -8,7 +8,7 @@ This is example is to show different part of the Git repository and various comm
 
 ## Purpose
 
-This is example is to show different part of the Git repository and various commands using a web project.
+As stated above, the main purpose is to provide simple examples for Git training demos.
 
 ## Deployment
 
